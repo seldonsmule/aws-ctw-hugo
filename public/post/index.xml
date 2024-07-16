@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on C The World</title>
+    <link>https://ctheworld.org/post/</link>
+    <description>Recent content in Blog on C The World</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="https://ctheworld.org/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Post 1 - Hurricane Ian</title>
+      <link>https://ctheworld.org/post/chapter-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ctheworld.org/post/chapter-1/</guid>
+      <description>We have both been through hurricanes, but nothing compared to riding out Hurricane Ian in September of 2022.&#xA;We had just moved to Florida and finished remodeling our house. Nine months after living through a remodeling hell - the big storm came to make its mark on Florida and us.&#xA;The good news: We had finished getting hurricane grade windows, doors and roof installed only a few months prior to this crazy event.</description>
+    </item>
+  </channel>
+</rss>
