@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/Users/rxe789/dev/aws-ctw-hugo",
+	"sourceRoot": "/Users/rxe789/egc_NetworkDrive/dev/website/aws-ctw-hugo",
 	"sources": [
 		"ananke/css/main.css"
 	],
